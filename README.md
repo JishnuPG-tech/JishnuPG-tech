@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/jishnu_p.g?igsh=bGkyZGFobjR0a2J1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="[https://t.me/Jishnu_p_g.com](https://t.me/jishnu_p_g)" target="_blank">
+  <a href="https://t.me/Jishnu_p_g.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
