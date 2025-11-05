@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Jishnu P G from Palakkad, Kerala<br><br>- 🔭 I'm studying Final Year BCA (Bachelor of Computer Applications)<br>- 🚀 Currently working on final year projects<br>- 📚 I'm currently learning  PHP, JavaScript, JAVA<br>- ⚡ In my free time I play video games, watching movies, etc.</p>
+<p align="left">I'm Jishnu P G from Palakkad, Kerala<br><br>- 🔭 I'm studying Final Year BCA (Bachelor of Computer Applications)<br>- 🚀 Currently working on final year projects<br>- 📚 I'm currently learning PHP, JavaScript, JAVA<br>- ⚡ In my free time I play video games, watching movies, etc.</p>
 
 ###
 

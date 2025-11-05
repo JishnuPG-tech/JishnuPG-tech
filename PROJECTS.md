@@ -42,15 +42,15 @@ As a final year BCA student, I aim to develop projects that demonstrate:
 
 ### Java Development
 - Java Tutorials: https://docs.oracle.com/javase/tutorial/
-- Java Best Practices
+- Java Best Practices: https://www.baeldung.com/java-best-practices
 
 ### Python & Data Science
 - Pandas Documentation: https://pandas.pydata.org/docs/
 - NumPy Documentation: https://numpy.org/doc/
 
 ### UI/UX Design
-- Figma Tutorials
-- Canva Design Resources
+- Figma Tutorials: https://help.figma.com/hc/en-us/categories/360002051613-Get-started
+- Canva Design Resources: https://www.canva.com/learn/
 
 ## 🔧 Development Setup
 
