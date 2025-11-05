@@ -19,12 +19,12 @@
 
 ###
 
-<p align="left">I'm Jishnu P G from Palakkad, Kerala<br><br>- 🔭 I'm studying Final Year BCA (Bachelor of Computer Applications)<br>- 🚀 Currently working on final year projects<br>- 📚 I'm currently learning PHP, JavaScript, JAVA<br>- ⚡ In my free time I play video games, watching movies, etc.</p>
+<p align="left">I'm Jishnu P G from Palakkad, Kerala<br><br>- 🔭 I'm studying Final Year BCA (Bachelor of Computer Applications)<br>- 🚀 Currently working on final year projects<br>- 📚 I'm currently learning PHP, JavaScript, Java<br>- ⚡ In my free time I play video games, watching movies, etc.</p>
 
 ###
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jishnu_p.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jishnu-p-g-5437b2279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jishnupg2005@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jishnu_p.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-p-g-5437b2279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jishnupg2005@gmail.com) 
 
 
 ## 🚀 Final Year BCA Projects
