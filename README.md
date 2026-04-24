@@ -146,15 +146,17 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JishnuPG-tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JishnuPG-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuPG-tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuPG-tech&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JishnuPG-tech&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=JishnuPG-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -162,7 +164,15 @@ me.say_hi()
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JishnuPG-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JishnuPG-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuPG-tech&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -181,32 +191,29 @@ System Design            ████░░░░░░  40%
 ## Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---
 
-## Contribution Graph
+## Contribution Snake
 
-<!-- To enable the snake animation, create a GitHub Action:
-     Go to Actions > New Workflow > set up a workflow yourself
-     Use: https://github.com/Platane/snk -->
+> **Setup required:** Go to your profile repo → Actions → New Workflow → paste the [Platane/snk](https://github.com/Platane/snk) workflow YAML → run it once. The snake will then auto-update daily.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
   <sub>Open to fresher roles in Kerala's IT ecosystem — Technopark · Infopark · Cyberpark</sub>
   <br/>
   <sub>jishnupg2005@gmail.com · linkedin.com/in/jishnupg2005</sub>
   <br/><br/>
-
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JishnuPG-tech&icon=0&color=6"/>
+    <img src="https://visitcount.itsvg.in/api?id=JishnuPG-tech&icon=0&color=6" alt="Visit Count"/>
   </a>
 </div>
