@@ -154,18 +154,6 @@ me.say_hi()
 
 ---
 
-## Currently Learning
-
-```
-Git
-                     
-FastAPI
-                 
-PostgreSQL               
-```
-
----
-
 ## GitHub Stats
 
 <!-- Original stat URLs preserved exactly from profile_old.md -->
