@@ -20,18 +20,14 @@
 
 <br/>
 
-<!-- Visitor Badges — original URLs preserved -->
+<!-- Visitor Badges -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JishnuPG-tech.JishnuPG-tech&"/>
-  &nbsp;&nbsp;
-  <a href="https://visitcount.itsvg.in">
-    
-  </a>
 </div>
 
 <br/>
 
-<!-- Social Badges — original links preserved -->
+<!-- Social Badges -->
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jishnu_p.g)
@@ -40,6 +36,97 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JishnuPG-tech)
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               SIDE-BY-SIDE PROFILE PREVIEW            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<table>
+  <tr>
+    <!-- LEFT COLUMN: ASCII Art Profile Picture -->
+    <td valign="top" width="50%">
+      <pre align="center">
+                           *                           
+        %@##%%%* *%@@@@% @#@@%                         
+      @#WWWWW@%   @#W$$W#@@#%%##@                      
+     #W#@@#@@%@WWW@@##W##% @#@#W@*%  *                 
+    @#@@%%%  *W$$$$#@@@@%   *%   ##%                   
+    %##% %#W$W##$W#$W#%    *   %@%@%##                 
+    @W%#$$$$$$$@#$W#W@% *%      @# %#W@ *              
+    %* $$$$$$$$#@*#@  *@#%       #@ @W%                
+      %$$$$$$$$@% @#$$W#% %%  * *## @#%                
+      *$$$$$$#$W#%%W$$W#@@% *%   * %W$%                
+    % $$$$$$W###W#@W$##@%% %%W@ * *#$W@ *              
+    * #$$$$$$$$$WWW@@@% #% %@W@  @WW$@         ***     
+     % $$$$$$$$$$#WW@W@%#@@ @@  %W$WW%*%* *            
+    * #$$#$$$$$WWWW###% @W%%@  * #W#  %%%@#######@*    
+      $$$$$$$$###WWW####%%W$$W%   %%%%%%%@@@@@@#$#*    
+      $$$$$$$$$$$#WWWWW# @W#@W##WW#@   %@@####$W@      
+         $W#$$$$$WWWWW#  %#W$$$W#@ *@#####@%%W#  *     
+      * % %$$$$$$#WWW# @$$$$W#%  %#####@@   W#  *      
+        * @$$$$$ W#W@%$$$W#%   @######@%** ## *        
+          * #$$$%@% #$$W@*   @#@@###@     %# *         
+          * @$$$   W$$#%  *%@@%@#@%  **   %%           
+          * @@@@##@$W@% * *%* @@   **  %%%*   *        
+          * @$W$$@W$# ***    *   *   @###@  %   **     
+           * WW@W W$@ **         **  @@   *%@#@*    ** 
+           * %$#  #$%   #@   * *    %@* %##WW$$W#@%    
+            * @$% @W%  $$  *     @#W$W% %%%@##WW$WWW#@%
+             * @#  W@ $$W#  *#%@W$$$W% *     %%%@%@@@##
+              * @% %%#$$$W #W$W$$$$W@ *    *           
+                  %##W@#$#W$$W$$$$$#            * **** 
+              *W@@WWW@%$$$$W$$$$$$W*#@ *               
+            * W$%#WW@%$$$$$$$$$$$$#W$# *               
+           * @$%###@W$$$$WW$$$$$$$W$$@ *               
+             #% #W$$$$$$$#@$$$$$$$WW$@ *               
+            *  @$$$$$$$$W% W$$$$$$$W$# *               
+             %@#$$$$$$@##  @$$$$$$W$$# *               
+           * ###$#$$W$% % * @$$W$$WW$W                 
+           * WW%$@@$WW@    * #$$W$$W$$% *              
+             $W #% W$W% *   * ##W$$$W$W                
+           * ##    @$W          %W$$$#W#               
+           * @# *  *W# *         *#$$W%#%              
+             *%   * #@          *  @#$#                
+                                  *  @W#               
+                                   **  %*              
+                                     **                
+      </pre>
+    </td>
+    
+    <!-- RIGHT COLUMN: Professional Developer Stats (Terminal Card Style) -->
+    <td valign="top" width="50%">
+      <pre>
+<b>👤 JISHNU P G</b>
+──────────────────────────────────────────
+<b>Role:</b>      Full-Stack Developer & AI Builder
+<b>Focus:</b>     Agentic AI, Web Apps, Automation
+<b>Education:</b> BCA Final Year @ Yuvakshetra
+<b>Location:</b>  Palakkad, Kerala, India
+──────────────────────────────────────────
+<b>🛠️ CORE STACK</b>
+──────────────────────────────────────────
+<b>Frontend:</b>  React, Next.js, HTML5, CSS3, JS
+<b>Backend:</b>   FastAPI, Python, PHP, Java, C
+<b>Database:</b>  PostgreSQL, MySQL / SQL
+<b>DevOps:</b>    Git, GitHub, VS Code, Linux
+──────────────────────────────────────────
+<b>📈 CURRENT OBJECTIVES</b>
+──────────────────────────────────────────
+• Building real-world AI applications
+• Pursuing MCA
+• Looking for Fresher Roles
+──────────────────────────────────────────
+<b>🌐 CONNECT</b>
+──────────────────────────────────────────
+• <a href="mailto:Jishnupg2005@gmail.com">Email Me</a>
+• <a href="https://www.linkedin.com/in/jishnu-p-g-5437b2279">LinkedIn</a>
+• <a href="https://github.com/JishnuPG-tech">GitHub Profile</a>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -156,8 +243,6 @@ me.say_hi()
 
 ## GitHub Stats
 
-<!-- Original stat URLs preserved exactly from profile_old.md -->
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=JishnuPG-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -180,8 +265,6 @@ me.say_hi()
 
 ## GitHub Trophies
 
-<!-- Original trophy URL preserved exactly from profile_old.md -->
-
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=JishnuPG-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -191,8 +274,6 @@ me.say_hi()
 ---
 
 ## Random Dev Quote
-
-<!-- Original quote URL preserved exactly from profile_old.md -->
 
 <div align="center">
 
@@ -204,8 +285,6 @@ me.say_hi()
 
 ## My Stats — Contribution Snake
 
-<!-- Original snake URL preserved exactly from profile_old.md -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/output/github-contribution-grid-snake-dark.svg" />
@@ -214,14 +293,12 @@ me.say_hi()
   </picture>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ---
 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
-  <sub>Final Year BCA Student · Aspiring Developer · Kerala, India</sub>
+  <sub>Final Year BCA Student · Aspiring Developer · Palakkad, Kerala, India</sub>
   <br/>
   <sub>Open to fresher roles</sub>
   <br/>
