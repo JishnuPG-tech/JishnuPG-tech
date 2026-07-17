@@ -97,33 +97,35 @@
     
     <!-- RIGHT COLUMN: Professional Developer Stats (Terminal Card Style) -->
     <td valign="top" width="50%">
-      <pre>
-<b>👤 JISHNU P G</b>
-──────────────────────────────────────────
-<b>Role:</b>      Full-Stack Developer & AI Builder
-<b>Focus:</b>     Agentic AI, Web Apps, Automation
-<b>Education:</b> BCA Final Year @ Yuvakshetra
-<b>Location:</b>  Palakkad, Kerala, India
-──────────────────────────────────────────
-<b>🛠️ CORE STACK</b>
-──────────────────────────────────────────
-<b>Frontend:</b>  React, Next.js, HTML5, CSS3, JS
-<b>Backend:</b>   FastAPI, Python, PHP, Java, C
-<b>Database:</b>  PostgreSQL, MySQL / SQL
-<b>DevOps:</b>    Git, GitHub, VS Code, Linux
-──────────────────────────────────────────
-<b>📈 CURRENT OBJECTIVES</b>
-──────────────────────────────────────────
-• Building real-world AI applications
-• Pursuing MCA
-• Looking for Fresher Roles
-──────────────────────────────────────────
-<b>🌐 CONNECT</b>
-──────────────────────────────────────────
-• <a href="mailto:Jishnupg2005@gmail.com">Email Me</a>
-• <a href="https://www.linkedin.com/in/jishnu-p-g-5437b2279">LinkedIn</a>
-• <a href="https://github.com/JishnuPG-tech">GitHub Profile</a>
-      </pre>
+
+### 👤 Jishnu P G
+* **Role:** Full-Stack Developer & AI Builder
+* **Focus:** Agentic AI, Web Apps, Automation
+* **Education:** BCA Final Year @ Yuvakshetra
+* **Location:** Palakkad, Kerala, India
+
+---
+
+### 🛠️ Core Stack
+* **Frontend:** React, Next.js, HTML5, CSS3, JS
+* **Backend:** FastAPI, Python, PHP, Java, C
+* **Database:** PostgreSQL, MySQL / SQL
+* **DevOps:** Git, GitHub, VS Code, Linux
+
+---
+
+### 📈 Current Objectives
+* Building real-world AI applications
+* Pursuing MCA
+* Looking for Fresher Roles
+
+---
+
+### 🌐 Connect
+* 📧 [Email Me](mailto:Jishnupg2005@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/jishnu-p-g-5437b2279)
+* 💻 [GitHub Profile](https://github.com/JishnuPG-tech)
+
     </td>
   </tr>
 </table>
