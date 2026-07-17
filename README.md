@@ -51,7 +51,7 @@ class JishnuPG:
         self.name        = "Jishnu P G"
         self.location    = "Palakkad, Kerala, India"
         self.education   = "BCA Graduate @ Yuvakshetra Institute of Management Studies"
-        self.next        = "Pursuing MCA"
+        self.next        = ".........."
         self.passion     = ["Vibe Coding", "Building AI projects", "Full Stack Development"]
         self.interests   = ["Artificial Intelligence", "Machine Learning", "GenAI", "DevOps", "scikit-learn"]
         self.hobbies     = ["Gaming", "Movies", "Exploring new tech"]
