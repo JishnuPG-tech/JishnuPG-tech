@@ -15,7 +15,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BCA+Final+Year+%7C+Aspiring+Software+Developer;Building+AI-powered+applications+from+Kerala;FastAPI+%7C+React+%7C+TensorFlow+%7C+PostgreSQL;Open+to+Fresher+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BCA+Graduate+%7C+Vibe+Coder+%26+Developer;Building+AI-powered+applications+from+Kerala;FastAPI+%7C+React+%7C+TensorFlow+%7C+PostgreSQL;Open+to+Fresher+Roles" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -50,10 +50,10 @@ class JishnuPG:
     def __init__(self):
         self.name        = "Jishnu P G"
         self.location    = "Palakkad, Kerala, India"
-        self.education   = "BCA Final Year @ Yuvakshetra Institute of Management Studies"
+        self.education   = "BCA Graduate @ Yuvakshetra Institute of Management Studies"
         self.next        = "Pursuing MCA"
-        self.passion     = ["Building AI projects", "Full Stack Development", "Open Source"]
-        self.interests   = ["Artificial Intelligence", "Machine Learning", "GenAI", "DevOps"]
+        self.passion     = ["Vibe Coding", "Building AI projects", "Full Stack Development"]
+        self.interests   = ["Artificial Intelligence", "Machine Learning", "GenAI", "DevOps", "scikit-learn"]
         self.hobbies     = ["Gaming", "Movies", "Exploring new tech"]
         self.open_to     = "Fresher roles"
         self.goal        = "Ship real-world software. Get hired. Keep learning."
@@ -119,6 +119,7 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" title="Keras"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
@@ -127,14 +128,17 @@ me.say_hi()
 <br/>
 
 
-**Tools & Environment**
+**Tools & Vibe Coding Environment**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" title="Git"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" title="GitHub"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white" height="40" title="Claude (Anthropic)"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" title="Antigravity (Google)"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CLIs-10b981?style=for-the-badge&logo=gnubash&logoColor=white" height="40" title="Command Line Automation"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" title="Figma"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" title="Canva"/>
 </div>
 
@@ -204,7 +208,7 @@ me.say_hi()
 
 ## My Stats — Contribution Snake
 
-<!-- Original snake URL preserved exactly from profile_old.md -->
+<!-- Original snake URL preserved exactly from profile_old.png -->
 
 <div align="center">
   <picture>
@@ -221,7 +225,7 @@ me.say_hi()
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
-  <sub>Final Year BCA Student · Aspiring Developer · Kerala, India</sub>
+  <sub>BCA Graduate · Vibe Coder · Palakkad, Kerala, India</sub>
   <br/>
   <sub>Open to fresher roles</sub>
   <br/>
