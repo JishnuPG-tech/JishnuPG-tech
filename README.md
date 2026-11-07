@@ -158,26 +158,10 @@ me.say_hi()
 
 ---
 
-## GitHub Stats
-
-<!-- Original stat URLs preserved exactly from profile_old.md -->
+## GitHub Stats, Activity & Trophies
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=JishnuPG-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=JishnuPG-tech&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuPG-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuPG-tech&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/main/github-metrics.svg" width="100%" alt="GitHub statistics, activity, and achievements"/>
 </div>
 
 ---
@@ -186,18 +170,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/main/koi/koi.gif" width="256" alt="Pixel-art koi generated from my GitHub activity"/>
-</div>
-
----
-
-## GitHub Trophies
-
-<!-- Original trophy URL preserved exactly from profile_old.md -->
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=JishnuPG-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 </div>
 
 ---
