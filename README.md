@@ -158,10 +158,10 @@ me.say_hi()
 
 ---
 
-## GitHub Stats, Activity & Trophies
+## GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/main/github-metrics.svg" width="100%" alt="GitHub statistics, activity, and achievements"/>
+  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/main/github-metrics.svg" width="100%" alt="GitHub statistics and activity"/>
 </div>
 
 ---
