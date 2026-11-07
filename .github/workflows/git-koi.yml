@@ -22,7 +22,9 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_achievements_secrets: no
           plugin_isocalendar: yes
 
       - name: Render profile koi
@@ -36,7 +38,7 @@ jobs:
       - name: Commit generated koi assets
         shell: bash
         run: |
-          if git diff --quiet -- koi && test -z "$(git status --porcelain -- koi)"; then
+          if git diff --quiet -- koi github-metrics.svg && test -z "$(git status --porcelain -- koi github-metrics.svg)"; then
             echo "Koi assets are already up to date."
             exit 0
           fi
