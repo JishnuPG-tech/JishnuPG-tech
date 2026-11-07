@@ -182,6 +182,14 @@ me.say_hi()
 
 ---
 
+## GitHub Activity Koi
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JishnuPG-tech/JishnuPG-tech/main/koi/koi.gif" width="256" alt="Pixel-art koi generated from my GitHub activity"/>
+</div>
+
+---
+
 ## GitHub Trophies
 
 <!-- Original trophy URL preserved exactly from profile_old.md -->
